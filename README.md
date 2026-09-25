@@ -61,7 +61,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
+💼 LinkedIn: [Kukshal Rana](https://www.linkedin.com/in/kukshal-rana-5023ba41b/)
 - Let’s connect professionally and grow your data career
 
 
