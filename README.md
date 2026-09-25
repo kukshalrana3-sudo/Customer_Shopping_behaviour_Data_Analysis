@@ -22,7 +22,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. **Clone the repository**
    ```bash
-   https://github.com/kukshalrana3-sudo/Customer_Shopping_behaviour_Data_Analysis/edit/main
+   https://github.com/kukshalrana3-sudo/Customer_Shopping_behaviour_Data_Analysis
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
